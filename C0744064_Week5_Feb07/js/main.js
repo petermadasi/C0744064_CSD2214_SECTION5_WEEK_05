@@ -14,5 +14,6 @@ function arrays() {
     for (i = 0; i < cards.length; i++) {
         alert(pens[i]);   
     }
+
     alert("length of arry is:" +cards.length);
 }
